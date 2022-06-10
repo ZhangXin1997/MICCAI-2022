@@ -1,6 +1,6 @@
 # Whole Slide Cervical Cancer Screening Using Graph Attention Network and Supervised Contrastive Learning
 
-This repository contains the implementation of the framework and experiments described in "Whole Slide Cervical Cancer Screening Using Graph Attention Network and Supervised Contrastive Learning".
+This repository contains the implementation of the framework and experiments described in "Whole Slide Cervical Cancer Screening Using Graph Attention Network and Supervised Contrastive Learning" which is submitted to MICCAI 2022.
 
 Authors: Xin Zhang, Maosong Cao, Sheng Wang, Jiayin Sun, Xiangshan Fan, Qian Wang, Lichi Zhang
 
