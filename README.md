@@ -66,6 +66,6 @@ All the results are conducted in 5-fold cross-validation as our paper illustrate
 
 Part of the data is shown in `data/Sample of Image Tiles`, `data/Sample of patches` and `data/Sample of graphs`. 
 
-Due to the large size and number of files, we cannot release all of the raw data directly in this repository. You can contact `lichizhang@sjtu.edu` for the whole dataset included in our MICCAI 2022 paper. 
+Due to the large size and number of files, we cannot release all of the raw data directly in this repository. You can contact `lichizhang@sjtu.edu.cn` for the whole dataset included in our MICCAI 2022 paper. 
 
 
