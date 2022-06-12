@@ -21,6 +21,8 @@ To download all prerequisites, in the terminal type
 
  `python test.py` can be used to test the trained models on both our sample data and your own data.
 
+Before running `python train.py`, you may need to detect the suspicious cells and use an encoder to extract the features of patches. The source codes for detection and classification (including the encoder) are released in `Suspicious_cell_detection` and `Patch_classification`.
+
 ## Experimental results of different patch numbers
  
 
