@@ -63,7 +63,7 @@ Before running `python train.py`, you may need to detect the suspicious cells an
 
 All the results are conducted in 5-fold cross-validation as our paper illustrated.
 
-##Qualitative results
+## Qualitative results
 
 We also show the qualitative result analysis in `qualitative results`, which is promised in the rebuttal.
 
