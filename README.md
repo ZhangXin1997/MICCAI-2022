@@ -62,10 +62,12 @@ Before running `python train.py`, you may need to detect the suspicious cells an
 </table>
 
 All the results are conducted in 5-fold cross-validation as our paper illustrated.
+
+##Qualitative results
+
+We also show the qualitative result analysis in `qualitative results`, which is promised in the rebuttal.
+
 ## Dataset
 
 Part of the data is shown in `data/Sample of Image Tiles`, `data/Sample of patches` and `data/Sample of graphs`. 
-
-Due to the large size and number of files, we cannot release all of the raw data directly in this repository. You can contact `lichizhang@sjtu.edu.cn` for the whole dataset included in our MICCAI 2022 paper. 
-
 
