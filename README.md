@@ -65,7 +65,7 @@ All the results are conducted in 5-fold cross-validation as our paper illustrate
 
 ## Qualitative results
 
-We also show the qualitative result analysis in `qualitative results`, which is promised in the rebuttal.
+The qualitative result analysis for the proposed method is presented in `qualitative results.pdf`.
 
 ## Dataset
 
